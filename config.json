@@ -1,0 +1,101 @@
+{
+  "current_diff": "easy",
+  "current_theme": "dark",
+  "initial_width": 500,
+  "initial_height": 650,
+  "best_time": {
+    "easy": 9999,
+    "normal": 9999,
+    "hard": 9999
+  },
+  "difficulties": {
+    "easy": {
+      "width": 9,
+      "height": 9,
+      "mines": 10
+    },
+    "normal": {
+      "width": 16,
+      "height": 16,
+      "mines": 40
+    },
+    "hard": {
+      "width": 30,
+      "height": 16,
+      "mines": 80
+    },
+    "custom": {
+      "width": 10,
+      "height": 10,
+      "mines": 1
+    }
+  },
+  "themes": {
+    "light": {
+      "main_label": "#0D47A1",
+      "main_color": "#F5F5F5",
+      "hover_color": "#D0E8FF",
+      "accent_color": "#2196F3",
+      "text_color": "#212121",
+      "button_color": "#E0E0E0",
+      "pressed_color": "#B3E5FC",
+      "flag_color": "#FF7043",
+      "mines_color": "#E53935",
+      "start_color_fg": "#64B5F6",
+      "start_color_text": "#FFFFFF",
+      "start_color_hover": "#42A5F5",
+      "settings_color_fg": "#FFD54F",
+      "settings_color_text": "#000000",
+      "settings_color_hover": "#FFCA28",
+      "exit_color_mainmenu": "#EF5350",
+      "exit_color_text": "#FFFFFF",
+      "exit_color_hover": "#D32F2F",
+      "config_buttons_color": "#E1F5FE",
+      "config_buttons_hover": "#B3E5FC",
+      "config_buttons_text": "#000000",
+      "num_colors": {
+        "1": "#1976D2",
+        "2": "#388E3C",
+        "3": "#F57C00",
+        "4": "#7B1FA2",
+        "5": "#C2185B",
+        "6": "#0097A7",
+        "7": "#5D4037",
+        "8": "#455A64"
+      }
+    },
+    "dark": {
+      "main_label": "#64B5F6",
+      "main_color": "#1E1E1E",
+      "hover_color": "#2A2A2A",
+      "accent_color": "#64B5F6",
+      "text_color": "#E0E0E0",
+      "button_color": "#2C2C2C",
+      "pressed_color": "#424242",
+      "flag_color": "#FF7043",
+      "mines_color": "#EF5350",
+      "start_color_fg": "#64B5F6",
+      "start_color_text": "#FFFFFF",
+      "start_color_hover": "#42A5F5",
+      "settings_color_fg": "#26A69A",
+      "settings_color_text": "#FFFFFF",
+      "settings_color_hover": "#00796B",
+      "exit_color_mainmenu": "#E53935",
+      "exit_color_text": "#FFFFFF",
+      "exit_color_hover": "#B71C1C",
+      "config_buttons_color": "#37474F",
+      "config_buttons_hover": "#455A64",
+      "config_buttons_text": "#FFFFFF",
+      "num_colors": {
+        "1": "#64B5F6",
+        "2": "#81C784",
+        "3": "#FFB74D",
+        "4": "#BA68C8",
+        "5": "#F06292",
+        "6": "#4DD0E1",
+        "7": "#BCAAA4",
+        "8": "#90A4AE"
+      }
+    }
+  }
+}
